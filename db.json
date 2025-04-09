@@ -1,0 +1,733 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "himesha@gmail.com",
+      "role": "admin",
+      "token": "mock-jwt-token-12345"
+    }
+  ],
+  "chats": [
+    {
+      "id": "b4f0e489-0258-4cb0-8a40-b9c1bd3c2570",
+      "title": "For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.",
+      "messages": [
+        {
+          "id": "36ed692b-f8e9-4c44-bf42-4bbf59e2fd53",
+          "sender": "user",
+          "message": "For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.",
+          "timestamp": 1742970774705
+        },
+        {
+          "id": "71e7ee3d-30b3-4904-9079-c05c00f6e8f2",
+          "sender": "system",
+          "message": "AI Response to: \"For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.\"",
+          "ledger": null,
+          "timestamp": 1742970775874
+        },
+        {
+          "id": "f4151150-15a0-4b33-9a8a-f39b38f5822d",
+          "sender": "user",
+          "message": "How are you doing today ?",
+          "timestamp": 1742970830999
+        },
+        {
+          "id": "00b3ea82-e4b8-446d-ae56-4ed63751508f",
+          "sender": "system",
+          "message": "Network Error",
+          "timestamp": 1742970833403
+        },
+        {
+          "id": "66a93469-a8d6-4944-9c98-84d2d774e26d",
+          "sender": "user",
+          "message": "For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction",
+          "timestamp": 1742970893046
+        },
+        {
+          "id": "b6451a6b-e6d0-4919-8557-85705bdde549",
+          "sender": "system",
+          "message": "AI Response to: \"For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction\"",
+          "ledger": null,
+          "timestamp": 1742970894074
+        },
+        {
+          "id": "f090d6fa-0940-49fa-a671-bfe6df5997de",
+          "sender": "user",
+          "message": "For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?",
+          "timestamp": 1742971030054
+        },
+        {
+          "id": "c7f5a1bb-f608-43b6-a4f6-99fa029ec8c7",
+          "sender": "system",
+          "message": "AI Response to: \"For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?\"",
+          "ledger": [
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_X"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_BANK_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_BANK_RETURN_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_RETURN_PW"
+            }
+          ],
+          "timestamp": 1742971031083
+        },
+        {
+          "id": "77645c9f-a19b-429d-a3f1-0d7597b292fd",
+          "sender": "user",
+          "message": "For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?",
+          "timestamp": 1742971065815
+        },
+        {
+          "id": "1d57263e-f28c-47f1-8191-42324ae725e0",
+          "sender": "system",
+          "message": "AI Response to: \"For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?\"",
+          "ledger": [
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_X"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_BANK_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_BANK_RETURN_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_RETURN_PW"
+            }
+          ],
+          "timestamp": 1742971066843
+        },
+        {
+          "id": "dc5c01b1-2921-4851-875c-08fc5bc3ea9e",
+          "sender": "user",
+          "message": "What is the capital of Singapore ?",
+          "timestamp": 1742971099316
+        },
+        {
+          "id": "5d509a49-d072-490c-aa13-bc1d7f742e52",
+          "sender": "system",
+          "message": "Network Error",
+          "timestamp": 1742971101761
+        },
+        {
+          "id": "727f297a-53b8-4ec7-a130-150f33213307",
+          "sender": "user",
+          "message": "What is the distance from Jupiter to Saturn ?",
+          "timestamp": 1742971643687
+        },
+        {
+          "id": "71e285c7-1180-4ac5-86a8-b9053698050c",
+          "sender": "system",
+          "message": "Hello! I'm here to help with any questions you have. How can I assist you today?",
+          "timestamp": 1742971653207
+        },
+        {
+          "id": "38b65e1e-4f76-4e68-b742-86b304cf7087",
+          "sender": "user",
+          "message": "For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?",
+          "timestamp": 1742971680425
+        },
+        {
+          "id": "9de08475-e2f0-4b4b-b7ef-90d043d4ce72",
+          "sender": "system",
+          "message": "Query Intent: Results Data Layer (RDL) Transactions",
+          "timestamp": 1742971683797
+        },
+        {
+          "id": "8ddd49ed-1917-44a0-ba6f-feab06a4af59",
+          "sender": "user",
+          "message": "what is the distance from Jupiter to Mars in our solar system ?",
+          "timestamp": 1742971715882
+        },
+        {
+          "id": "6e0d7f81-56d8-4174-ab03-bdc71bc9fdfd",
+          "sender": "system",
+          "message": "I'm sorry, but I can't assist with that. Below are few examples of relevant queries. Please refer them before asking the next question:\n\n1. For G/L  Account as 200892 with Legal entity  as 09082, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and BT posting direction.\n\n2. Fetch the RDL transactions for Production Control = 'Z_RANDPROC_ACC', GL account = 120001 and BT source system as XITE\n\n3. List all derivation rule names for BT source system = XAI.\n\n4. Does any derivation rule exist for BT source system as TD, BT Posting direction as 'C', Tenant ID as'RIB130' and Inter-Company Transaction Indicator as '99'?",
+          "timestamp": 1742971718245
+        },
+        {
+          "id": "70c891bb-437f-4232-a96c-1c603759f4be",
+          "sender": "user",
+          "message": "For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?",
+          "timestamp": 1742971729152
+        },
+        {
+          "id": "f0443680-1c58-4917-9093-ce6c6bda4768",
+          "sender": "system",
+          "message": "Query Intent: Results Data Layer (RDL) Transactions",
+          "timestamp": 1742971732064
+        },
+        {
+          "id": "dedab1f8-e975-49a8-b581-98b5341b3bc8",
+          "sender": "user",
+          "message": "what is the distance from Jupiter to Mars in our solar system ?",
+          "timestamp": 1742971753855
+        },
+        {
+          "id": "8694bbfb-c84b-4386-b9eb-3ef1708137cf",
+          "sender": "system",
+          "message": "I'm sorry, but I can't assist with that.",
+          "timestamp": 1742971755857
+        },
+        {
+          "id": "61138b5e-1981-4eeb-b513-cd5f84212239",
+          "sender": "user",
+          "message": "What is Capital of India ?",
+          "timestamp": 1742971776392
+        },
+        {
+          "id": "c3a057c0-7157-4bd8-b8c1-cbd8ea813f4b",
+          "sender": "system",
+          "message": "Hello! The capital of India is New Delhi. How can I assist you further?",
+          "timestamp": 1742971778391
+        },
+        {
+          "id": "9b6a5dce-e1ec-4df1-9d28-3009440ce3dd",
+          "sender": "user",
+          "message": "what is the recipe for the famous \"chilli crab\" from Singapore ? when was it invented ?",
+          "timestamp": 1742971823535
+        },
+        {
+          "id": "3877647f-5cdf-4f49-a862-f4861256d73a",
+          "sender": "system",
+          "message": "Hi! I'd be happy to help you with that. The recipe for \"chilli crab\" is a popular dish in Singapore, and it's known for its spicy and tangy flavor. It's typically made with crab meat, chili paste, and coconut milk, and it's often served with rice or noodles. As for when it was invented, I'm not sure of the exact date, but it's believed to have originated in the 1950s. I hope that helps!",
+          "timestamp": 1742971827079
+        },
+        {
+          "id": "447d585f-6818-4af5-9782-befbdb1643a9",
+          "sender": "user",
+          "message": "what is the kraken ?",
+          "timestamp": 1742971875364
+        },
+        {
+          "id": "489da59b-62a9-4eda-a689-b779cf282e78",
+          "sender": "system",
+          "message": "I'm sorry, but I can't assist with that.",
+          "timestamp": 1742971877937
+        },
+        {
+          "id": "cf596a8a-ddae-45eb-9ead-34513a975141",
+          "sender": "user",
+          "message": "What is the kraken in greek mythology ? what was its significance ?",
+          "timestamp": 1742971914644
+        },
+        {
+          "id": "f701ade3-0841-4bdc-9b36-84d800d6e31c",
+          "sender": "system",
+          "message": "Hi! The Kraken is a giant sea monster in Greek mythology. It was significant because it was believed to be a powerful and dangerous creature that could cause storms and sink ships. Below are few examples of relevant queries. Please refer them before asking the next question:\n\n1. For G/L  Account as 200892 with Legal entity  as 09082, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and BT posting direction.\n\n2. Fetch the RDL transactions for Production Control = 'Z_RANDPROC_ACC', GL account = 120001 and BT source system as XITE\n\n3. List all derivation rule names for BT source system = XAI.\n\n4. Does any derivation rule exist for BT source system as TD, BT Posting direction as 'C', Tenant ID as'RIB130' and Inter-Company Transaction Indicator as '99'?",
+          "timestamp": 1742971917010
+        },
+        {
+          "id": "ea507097-ad02-43cf-afac-18a04842a113",
+          "sender": "user",
+          "message": "What are the distinct Posting record outputs with respect to the BT Posting direction =C and Acquiring Bank = BANKC  with SDA Transaction type 21 in PR derivation rule for source system SDAD_A",
+          "timestamp": 1742971953319
+        },
+        {
+          "id": "61735034-0382-45f7-9a00-c85529efee33",
+          "sender": "system",
+          "message": "Hello! How can I assist you today?",
+          "timestamp": 1742971956008
+        },
+        {
+          "id": "7dcb4c32-cbbe-45fb-b700-cb2720d7b33b",
+          "sender": "user",
+          "message": "List down the PR derivation rules which are configured for Btsource system SDAD_A with SDA Transaction type as 21",
+          "timestamp": 1742972003440
+        },
+        {
+          "id": "eb16b1c5-a941-4fd0-b776-4e523f663d6d",
+          "sender": "system",
+          "message": "Hello! How can I assist you today?",
+          "timestamp": 1742972006067
+        },
+        {
+          "id": "ce0a5aab-31c0-4676-9064-3f4f8894261d",
+          "sender": "user",
+          "message": "For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?",
+          "timestamp": 1743071750960
+        },
+        {
+          "id": "43277cf2-b510-47c9-b9df-b0388b2c51e0",
+          "sender": "system",
+          "message": "AI Response to: \"For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?\"",
+          "ledger": [
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_X"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_BANK_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_BANK_RETURN_OUTER"
+            },
+            {
+              "BT Source System": "SD_A",
+              "G/L Account": "120000",
+              "Accounting Event": "PAYABLE_RETURN_PW"
+            }
+          ],
+          "timestamp": 1743071752022
+        },
+        {
+          "id": "4ef7e2fe-d597-419e-9e65-3584395f048c",
+          "sender": "user",
+          "message": "For BT Source system = SITE, G/L account = 124101, Fetch the accounting events used as per RDL transactions ?",
+          "timestamp": 1743071819859
+        },
+        {
+          "id": "6a4a90a0-dac1-40e5-8ba3-e8521ca0e8cb",
+          "sender": "system",
+          "message": "Query Intent: Results Data Layer (RDL) Transactions",
+          "timestamp": 1743071823405
+        }
+      ]
+    },
+    {
+      "id": "c5cd52dc-c2fd-42a8-97b5-88be0ae738f1",
+      "title": "List down the PR derivation rules which are configured for Btsource system SDAD_A with SDA Transaction type as 21",
+      "messages": [
+        {
+          "id": "09234c63-7386-4779-afda-e63be3420be5",
+          "sender": "user",
+          "message": "List down the PR derivation rules which are configured for Btsource system SDAD_A with SDA Transaction type as 21",
+          "timestamp": 1742972048407
+        },
+        {
+          "id": "c441a018-51eb-445e-a987-83159fe1f1e0",
+          "sender": "system",
+          "message": "Hello! How can I assist you today?",
+          "timestamp": 1742972051822
+        },
+        {
+          "id": "216b126c-c8e5-4bd2-a3a0-43d5e5bfddc5",
+          "sender": "user",
+          "message": "Show the SDA transaction types for the business transactions that have BT source system as SD_A, G/L account as 120000 ?",
+          "timestamp": 1742972072375
+        },
+        {
+          "id": "b3af81eb-79e3-47d3-af3c-53958e1521cd",
+          "sender": "system",
+          "message": "Query Intent: Results Data Layer (RDL) Transactions",
+          "timestamp": 1742972075547
+        },
+        {
+          "id": "0978e0ff-5bbe-42d9-ae64-bf131fe67da4",
+          "sender": "user",
+          "message": "what is shiva linga ?",
+          "timestamp": 1742972097117
+        },
+        {
+          "id": "343594d4-97d2-477d-a50e-4fe0ac55cb9e",
+          "sender": "system",
+          "message": "Shiva Linga is a symbol of the Hindu god Shiva. It is a simple, cylindrical stone or metal object that represents the cosmic energy of Shiva. The Linga is often associated with the concept of Shiva as the creator, preserver, and destroyer of the universe. It is a central object in many Hindu temples and is considered sacred by many Hindus.",
+          "timestamp": 1742972100289
+        },
+        {
+          "id": "982a89aa-a1d8-41e4-94cd-a4bc8a435a7e",
+          "sender": "user",
+          "message": "what is chicken adobo ?",
+          "timestamp": 1742972117141
+        },
+        {
+          "id": "0df0940e-6cb6-4987-a59e-4b201326721a",
+          "sender": "system",
+          "message": "Chicken adobo is a popular Filipino dish made with chicken marinated in vinegar, soy sauce, and garlic, then simmered in a sauce. It's a delicious and flavorful dish that's often served with rice.",
+          "timestamp": 1742972119298
+        },
+        {
+          "id": "f5efed85-4257-4ea6-9401-87d5caecfea4",
+          "sender": "user",
+          "message": "what is the distance between the planet Jupiter and the planet Mars ?",
+          "timestamp": 1742972154613
+        },
+        {
+          "id": "08e8bc80-4d56-48f2-87dc-dd8276ff8464",
+          "sender": "system",
+          "message": "I'm sorry, but I can't assist with that.",
+          "timestamp": 1742972157020
+        },
+        {
+          "id": "ab11159c-4695-4176-adc4-e842ee0bfbe2",
+          "sender": "user",
+          "message": "what is the distance between the Sun and the planet Mars ?",
+          "timestamp": 1742972181265
+        },
+        {
+          "id": "17e92327-c21a-4b59-a3e1-38327f56e2b9",
+          "sender": "system",
+          "message": "Hello! The distance between the Sun and the planet Mars can vary depending on their positions in their orbits. On average, it's about 142 million kilometers. Below are few examples of relevant queries. Please refer them before asking the next question:\n\n1. For G/L  Account as 200892 with Legal entity  as 09082, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and BT posting direction.\n\n2. Fetch the RDL transactions for Production Control = 'Z_RANDPROC_ACC', GL account = 120001 and BT source system as XITE\n\n3. List all derivation rule names for BT source system = XAI.\n\n4. Does any derivation rule exist for BT source system as TD, BT Posting direction as 'C', Tenant ID as'RIB130' and Inter-Company Transaction Indicator as '99'?",
+          "timestamp": 1742972183983
+        },
+        {
+          "id": "292f983f-b2ce-407f-aab5-e45126e1439e",
+          "sender": "user",
+          "message": "what is the distance between the Sun and the planet Mars ?",
+          "timestamp": 1743071854700
+        },
+        {
+          "id": "a048ce66-1863-4cfa-bbaa-de56649e9be9",
+          "sender": "system",
+          "message": "Hello! The distance between the Sun and the planet Mars can vary depending on their positions in their orbits. On average, it's about 142 million kilometers.",
+          "timestamp": 1743071857020
+        },
+        {
+          "id": "431abefd-82e1-44ad-aad0-3a69d4012e4e",
+          "sender": "user",
+          "message": "what is chilli crab, when was this dish invented ?",
+          "timestamp": 1743071896717
+        },
+        {
+          "id": "f25c9764-bdb6-4538-9d16-213ac10790d5",
+          "sender": "system",
+          "message": "Chilli crab is a popular Singaporean dish made with crab meat in a spicy chili sauce. It's a dish that originated in Singapore and is known for its unique blend of flavors. As for when it was invented, there isn't a specific date, but it's believed to have been created in the 1960s.",
+          "timestamp": 1743071900067
+        },
+        {
+          "id": "162b88e5-5d61-4898-9236-72891d6950c1",
+          "sender": "user",
+          "message": "who were the prime ministers of India from 1956 through 1985 ?",
+          "timestamp": 1743072138236
+        },
+        {
+          "id": "790e1e64-95c5-407d-857a-02d0110579ae",
+          "sender": "system",
+          "message": "I'm sorry, but I can't assist with that.",
+          "timestamp": 1743072141125
+        },
+        {
+          "id": "7e1aed0b-2242-4748-a07e-f1cc6442e0d4",
+          "sender": "user",
+          "message": "what is a kraken in greek mythology ?",
+          "timestamp": 1743072195603
+        },
+        {
+          "id": "f146b855-1f61-40ba-9fa4-8a7f2ed26464",
+          "sender": "system",
+          "message": "A kraken in Greek mythology is a giant sea monster.",
+          "timestamp": 1743072198361
+        },
+        {
+          "id": "205f4d6b-282b-47d8-b711-73d1dc050006",
+          "sender": "user",
+          "message": "what is the capital of India ?",
+          "timestamp": 1743072216804
+        },
+        {
+          "id": "eaecb648-071c-42cc-8157-f400b608a6fa",
+          "sender": "system",
+          "message": "Hello! The capital of India is New Delhi. How can I assist you further?",
+          "timestamp": 1743072219583
+        },
+        {
+          "id": "3879201c-1365-43d8-86e5-c13b396881ad",
+          "sender": "user",
+          "message": "What is the origin of the boomerang ?",
+          "timestamp": 1743072241233
+        },
+        {
+          "id": "e0edad79-eb40-41d5-b306-49a020442a5f",
+          "sender": "system",
+          "message": "Hello! The boomerang is an ancient tool that originated in Australia. It was used by the indigenous people for hunting and as a symbol of their culture. Would you like to know more about its history or how it's used today? Below are few examples of relevant queries. Please refer them before asking the next question:\n\n1. For G/L  Account as 200892 with Legal entity  as 09082, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and BT posting direction.\n\n2. Fetch the RDL transactions for Production Control = 'Z_RANDPROC_ACC', GL account = 120001 and BT source system as XITE\n\n3. List all derivation rule names for BT source system = XAI.\n\n4. Does any derivation rule exist for BT source system as TD, BT Posting direction as 'C', Tenant ID as'RIB130' and Inter-Company Transaction Indicator as '99'?",
+          "timestamp": 1743072243668
+        }
+      ]
+    },
+    {
+      "id": "de578d8b-3192-4f9c-9fd3-761cbfe0a9cc",
+      "title": "Show the SDA transaction types for the business transactions that have BT source system as SD_A, G/L account as 120000 ?",
+      "messages": [
+        {
+          "id": "88058198-5cac-472d-b1f4-4c0bdac78e62",
+          "sender": "user",
+          "message": "Show the SDA transaction types for the business transactions that have BT source system as SD_A, G/L account as 120000 ?",
+          "timestamp": 1743071528319
+        },
+        {
+          "id": "1bd7b803-bd0b-4ac2-af67-b12cdf1b7c4e",
+          "sender": "system",
+          "message": "AI Response to: \"Show the SDA transaction types for the business transactions that have BT source system as SD_A, G/L account as 120000 ?\"",
+          "ledger": null,
+          "timestamp": 1743071529430
+        },
+        {
+          "id": "d252cf10-fecc-4735-97b9-b05a2bb2ee7f",
+          "sender": "user",
+          "message": "For BT Source system = SD_A, G/L account = 120000, Fetch the accounting events used as per RDL transactions",
+          "timestamp": 1743071548100
+        },
+        {
+          "id": "0521727d-d65d-451e-a3cf-7c674e0c07f7",
+          "sender": "system",
+          "message": "AI Response to: \"For BT Source system = SD_A, G/L account = 120000, Fetch the accounting events used as per RDL transactions\"",
+          "ledger": null,
+          "timestamp": 1743071549132
+        },
+        {
+          "id": "f9a54869-dd19-4304-bb8a-d53392068bdd",
+          "sender": "user",
+          "message": "For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.",
+          "timestamp": 1743071572898
+        },
+        {
+          "id": "dce02d8b-a5f1-4206-bb79-a24cedf65929",
+          "sender": "system",
+          "message": "AI Response to: \"For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.\"",
+          "ledger": null,
+          "timestamp": 1743071573938
+        },
+        {
+          "id": "2e75496a-2bdc-47cb-bab5-58a01a43132e",
+          "sender": "user",
+          "message": "For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.",
+          "timestamp": 1743071585273
+        },
+        {
+          "id": "47f87197-87c0-4784-9c19-43ef69b90781",
+          "sender": "system",
+          "message": "Query Intent: Results Data Layer (RDL) Transactions",
+          "timestamp": 1743071596049
+        },
+        {
+          "id": "c19db920-b3bb-48a2-89de-b7deb3ebee9b",
+          "sender": "user",
+          "message": "For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.",
+          "timestamp": 1743071662955
+        },
+        {
+          "id": "1be56b62-1985-421d-ba6b-7a0c4f7b8fa4",
+          "sender": "system",
+          "message": "Query Intent: Results Data Layer (RDL) Transactions",
+          "timestamp": 1743071666165
+        },
+        {
+          "id": "852e8f59-1738-4813-8e81-0426abfc12fa",
+          "sender": "user",
+          "message": "For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.",
+          "timestamp": 1743071672182
+        },
+        {
+          "id": "01b0cfe7-5db4-4f94-a7e6-1e3aa1b09ebf",
+          "sender": "system",
+          "message": "AI Response to: \"For G/L  Account as 200001 with Legal entity  as 2000, can you please query the RDL and show me the transactions with  business transaction ID, BT source system, transaction type, posting record and bt posting direction.\"",
+          "ledger": null,
+          "timestamp": 1743071673214
+        },
+        {
+          "id": "fd524163-bfc4-43b0-9c1c-a13ad693c874",
+          "sender": "user",
+          "message": "Show the SDA transaction types for the business transactions that have BT source system as SD_A, G/L account as 120000",
+          "timestamp": 1743071691907
+        },
+        {
+          "id": "5d4cbcea-c55e-4248-9532-d082b92dc2dc",
+          "sender": "system",
+          "message": "AI Response to: \"Show the SDA transaction types for the business transactions that have BT source system as SD_A, G/L account as 120000\"",
+          "ledger": null,
+          "timestamp": 1743071692942
+        },
+        {
+          "id": "2870ae5c-757e-494e-99ab-2b5c933d8791",
+          "sender": "user",
+          "message": "What are the distinct Posting record outputs with respect to the BT Posting direction =C and Acquiring Bank = BANKC  with SDA Transaction type 21 in PR derivation rule for source system SDAD_A",
+          "timestamp": 1743071710221
+        },
+        {
+          "id": "9359bf8e-55b2-4f8b-9100-610cd6702670",
+          "sender": "system",
+          "message": "AI Response to: \"What are the distinct Posting record outputs with respect to the BT Posting direction =C and Acquiring Bank = BANKC  with SDA Transaction type 21 in PR derivation rule for source system SDAD_A\"",
+          "ledger": null,
+          "timestamp": 1743071711263
+        }
+      ]
+    }
+  ],
+  "auth": [
+    {
+      "id": "a5c0",
+      "email": "f"
+    },
+    {
+      "id": "0dc0",
+      "email": "fd"
+    },
+    {
+      "id": "590f",
+      "email": "fd"
+    },
+    {
+      "id": "068f",
+      "email": "mmj"
+    },
+    {
+      "id": "8284",
+      "email": "bgvb"
+    },
+    {
+      "id": "1040",
+      "email": "jhjhk"
+    },
+    {
+      "id": "a58e",
+      "email": "fd"
+    },
+    {
+      "id": "39dc",
+      "email": "jkj"
+    },
+    {
+      "id": "e1e9",
+      "email": "hjh"
+    },
+    {
+      "id": "b6e7",
+      "email": "hjh"
+    },
+    {
+      "id": "f07f",
+      "email": "A"
+    },
+    {
+      "id": "2788",
+      "email": "hjhj"
+    },
+    {
+      "id": "cb8a",
+      "email": "jkj"
+    },
+    {
+      "id": "6ae8",
+      "email": "bnh"
+    },
+    {
+      "id": "9946",
+      "email": "hghjg"
+    },
+    {
+      "id": "c43f",
+      "email": "jh"
+    },
+    {
+      "id": "01e6",
+      "email": "jkj"
+    },
+    {
+      "id": "db7a",
+      "email": "dd"
+    },
+    {
+      "id": "d3a5",
+      "email": "j"
+    },
+    {
+      "id": "50fa",
+      "email": "hjh"
+    },
+    {
+      "id": "5a24",
+      "email": "jkj"
+    },
+    {
+      "id": "4245",
+      "email": "jkj"
+    },
+    {
+      "id": "f517",
+      "email": "fdf"
+    },
+    {
+      "id": "bc25",
+      "email": "xcx"
+    },
+    {
+      "id": "d2b0",
+      "email": "bhb"
+    },
+    {
+      "id": "9e8a",
+      "email": "jkj"
+    },
+    {
+      "id": "389a",
+      "email": "dfd"
+    },
+    {
+      "id": "37e2",
+      "email": "hjh"
+    },
+    {
+      "id": "215f",
+      "email": "xcx"
+    },
+    {
+      "id": "61c7",
+      "email": "hjh"
+    },
+    {
+      "id": "fea6",
+      "email": "jkj"
+    },
+    {
+      "id": "bb13",
+      "email": "f"
+    },
+    {
+      "id": "707f",
+      "email": "namisra@paypal.com"
+    },
+    {
+      "id": "31d3",
+      "email": "namisra@paypal.com"
+    },
+    {
+      "id": "bc82",
+      "email": "namisra@paypal.com"
+    },
+    {
+      "id": "fc2f",
+      "email": "namisra@paypal.com"
+    }
+  ]
+}

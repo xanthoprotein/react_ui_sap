@@ -1,0 +1,16 @@
+{
+  "ledger": [
+    {
+      "Step Number": "1",
+      "Rule Description": "SDAD_A:Settlement Post Rec_Vendor1"
+    },
+    {
+      "Step Number": "3",
+      "Rule Description": "SDAD_A:Settlement Post Rec Logic_Vendor3"
+    },
+    {
+      "Step Number": "4",
+      "Rule Description": "SDAD_A:Settlement Post Rec Logic_Vendor4"
+    }
+  ]
+}

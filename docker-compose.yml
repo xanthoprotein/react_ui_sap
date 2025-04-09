@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  react-app:
+    build: .
+    ports:
+      - "3000:80"
+    restart: always
+
+  mock-server:
+    image: node:20
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: npx json-server --watch /app/db.json --host 0.0.0.0 --port 5000
+    ports:
+      - "5000:5000"

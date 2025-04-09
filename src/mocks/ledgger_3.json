@@ -1,0 +1,29 @@
+{
+  "ledger": [
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "Accounting Event": "PAYABLE_X"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "Accounting Event": "PAYABLE_OUTER"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "Accounting Event": "PAYABLE_BANK_OUTER"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "Accounting Event": "PAYABLE_BANK_RETURN_OUTER"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "Accounting Event": "PAYABLE_RETURN_PW"
+    }
+  ]
+}

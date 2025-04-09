@@ -1,0 +1,58 @@
+{
+  "ledger": [
+    {
+      "Business Transaction ID": "225761000012",
+      "Legal Entity": "2000",
+      "BT Source System": "SITE_A",
+      "Transaction Type": "NULL",
+      "Posting Record": "X0002C",
+      "G/L Account": "200001",
+      "BT Posting Direction": "C"
+    },
+    {
+      "Business Transaction ID": "225761000412",
+      "Legal Entity": "2000",
+      "BT Source System": "SITE_A",
+      "Transaction Type": "NULL",
+      "Posting Record": "X0002D",
+      "G/L Account": "200001",
+      "BT Posting Direction": "D"
+    },
+    {
+      "Business Transaction ID": "225761000411",
+      "Legal Entity": "2000",
+      "BT Source System": "SITE_A",
+      "Transaction Type": "NULL",
+      "Posting Record": "X0002D",
+      "G/L Account": "200001",
+      "BT Posting Direction": "D"
+    },
+    {
+      "Business Transaction ID": "DTX1-3303_22A",
+      "Legal Entity": "2000",
+      "BT Source System": "SITE_A",
+      "Transaction Type": "NULL",
+      "Posting Record": "X0002D",
+      "G/L Account": "200001",
+      "BT Posting Direction": "D"
+    },
+    {
+      "Business Transaction ID": "DTX2-3303_22C",
+      "Legal Entity": "2000",
+      "BT Source System": "SITE_A",
+      "Transaction Type": "NULL",
+      "Posting Record": "X0342C",
+      "G/L Account": "200001",
+      "BT Posting Direction": "C"
+    },
+    {
+      "Business Transaction ID": "225761000417",
+      "Legal Entity": "2000",
+      "BT Source System": "SITE_A",
+      "Transaction Type": "NULL",
+      "Posting Record": "X0002D",
+      "G/L Account": "200001",
+      "BT Posting Direction": "D"
+    }
+  ]
+}

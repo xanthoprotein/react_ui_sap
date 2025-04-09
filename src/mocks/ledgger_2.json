@@ -1,0 +1,54 @@
+{
+  "ledger": [
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "01"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "02"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "03"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "04"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "1A"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "2C"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "2K"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "2L"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "1K"
+    },
+    {
+      "BT Source System": "SD_A",
+      "G/L Account": "120000",
+      "SDA Transaction type": "3E"
+    }
+  ]
+}

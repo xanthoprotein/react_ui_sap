@@ -1,0 +1,61 @@
+{
+  "ledger": [
+    {
+      "ledgerId": "L001",
+      "ledgerName": "Accounts Payable",
+      "accountNumber": "AP-1001",
+      "accountType": "Liability",
+      "currency": "USD",
+      "balance": 150000.45,
+      "createdDate": "2023-01-15",
+      "lastUpdatedDate": "2023-12-20",
+      "status": "Active",
+      "parentLedger": "General Ledger",
+      "associatedEntity": "Vendor Management",
+      "region": "North America",
+      "department": "Finance",
+      "lastTransactionId": "T123456",
+      "approver": "Jane Doe",
+      "notes": "Includes outstanding vendor invoices",
+      "category": "Trade Payables"
+    },
+    {
+      "ledgerId": "L002",
+      "ledgerName": "Accounts Receivable",
+      "accountNumber": "AR-2001",
+      "accountType": "Asset",
+      "currency": "EUR",
+      "balance": 95000.0,
+      "createdDate": "2023-03-10",
+      "lastUpdatedDate": "2023-12-18",
+      "status": "Active",
+      "parentLedger": "General Ledger",
+      "associatedEntity": "Customer Management",
+      "region": "Europe",
+      "department": "Finance",
+      "lastTransactionId": "T654321",
+      "approver": "John Smith",
+      "notes": "Includes pending customer payments",
+      "category": "Trade Receivables"
+    },
+    {
+      "ledgerId": "L003",
+      "ledgerName": "Inventory",
+      "accountNumber": "INV-3001",
+      "accountType": "Asset",
+      "currency": "GBP",
+      "balance": 250000.0,
+      "createdDate": "2023-02-05",
+      "lastUpdatedDate": "2023-11-30",
+      "status": "Inactive",
+      "parentLedger": "General Ledger",
+      "associatedEntity": "Inventory Management",
+      "region": "Asia-Pacific",
+      "department": "Operations",
+      "lastTransactionId": "T789012",
+      "approver": "Alice Johnson",
+      "notes": "Warehouse stock valuation",
+      "category": "Inventory Assets"
+    }
+  ]
+}

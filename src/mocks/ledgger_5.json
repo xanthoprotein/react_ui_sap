@@ -1,0 +1,24 @@
+{
+  "ledger": [
+    {
+      "Step Number": "4",
+      "Rule Description": "SDAD_A:Settlement Post Rec_Vendor4",
+      "Posting Record": "X0000C"
+    },
+    {
+      "Step Number": "5",
+      "Rule Description": "SDAD_A:Settlement Post Rec Logic_Vendor5",
+      "Posting Record": "X0001C"
+    },
+    {
+      "Step Number": "5",
+      "Rule Description": "SDAD_A:Settlement Post Rec Logic_Vendor5",
+      "Posting Record": "X0002C"
+    },
+    {
+      "Step Number": "10",
+      "Rule Description": "SDAD_A:Settlement Post Rec Logic_Vendor10",
+      "Posting Record": "X0005C"
+    }
+  ]
+}
